@@ -6,13 +6,11 @@ h5{
     text-align: center;
     color: rgb(8, 0, 39);
 }
+h6{
+    text-align: center;
+    color:rgb(8, 0, 39);
+}
 img{
     height: 35em;
     vertical-align: center;
-}
-p{
-    color:rgb(8, 0, 39);
-}
-span{
-    color:rgb(8, 0, 39);
 }
